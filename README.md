@@ -30,4 +30,4 @@ also changed the footer h2 to h4 to organise better
 now the css was abit all over the place there were many double ups of code and elements and the code wasnt organised very well either<br>
 so first i seperate the css into two seperate css files headerFooter and body (which included all links and imgs)
 <br>
-I then grouped up the headers
+I then grouped up the headers in the css

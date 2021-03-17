@@ -1,5 +1,7 @@
 # Code Refractor
 UWA web developement boot camp 2021
+GITHUB REPO:https: //github.com/Twistedmouse/CODE_REFRACTOR_01-HOMEWORK
+DEPLOYED WEPPAGE: https://twistedmouse.github.io/CODE_REFRACTOR_01-HOMEWORK/
 
 ## Task:
 go through the given html and css to build better semantics and or reform the scructor to read easier and to respond better

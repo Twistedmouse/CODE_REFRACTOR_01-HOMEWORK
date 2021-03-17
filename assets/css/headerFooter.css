@@ -1,0 +1,62 @@
+/* effects everything of the html */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* header element */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+/* sorted h tags */
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+    color: #d9dcd6;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+/* postioning for the navbar */
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+/* ordering the navbar into inline block */
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+/* the image under the header */
+.hero {
+    height: 1000px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/* footer element */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+/* footer h set under footer to find easier */
+footer h4 {
+    font-size: 20px;
+}

@@ -1,0 +1,57 @@
+/* font-size of the page */
+p {
+    font-size: 16px;
+}
+/* colour of the links text */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/* floats elements to the left of screen */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+/* floats elements to the right of screen */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/* sets the position for content */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* benefits element */
+.benefits {
+    margin-right: 20px;
+    margin-bottom: 32px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    color: #ffffff;
+}
+/* grouped up aside imgs */
+aside img{
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/* grouped up img elements in article */
+article img{
+    max-height: 200px;
+}
+/* grouped up the aricle elements */
+article{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}

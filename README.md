@@ -51,7 +51,7 @@ I did the same with the aside images as you can see <br>
 Anything i could see in the code that doubled up or didnt do anything i changed
 <br>
 This is my css after all its rearanging: 
-##### HeaderFooter
+## HeaderFooter
 ![](assets\screenshots\headerFooter.jpg)
-##### BODY
+## BODY
 ![](assets\screenshots\body.jpg)

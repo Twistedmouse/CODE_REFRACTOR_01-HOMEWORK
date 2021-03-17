@@ -14,7 +14,8 @@ so i went through looking for better semantics such as section tags,asides,artic
 ![](assets\screenshots\semantics1.jpg)
 ![](assets\screenshots\semantics2.jpg)
 <br>
-
+i also change the title tag to have a decriptive title. 
+<br>
 gave the nav its own section
 ![](assets\screenshots\navsection.jpg)
 <br>
